@@ -1,6 +1,6 @@
 <table>
 	<tr>
-		<td width="25%" valign="top">
+		<td width="30%" valign="top">
 			<img src="https://media.tenor.com/jCBlYvCo7qwAAAAj/sanpoh-sansan.gif" width="150" alt="working cat"/>
 		</td>
 		<td width="70%" align="left" valign="top">
@@ -17,9 +17,7 @@
 	</tr>
 </table>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=F7A670&width=435&lines=%22You've+gotta+dance+like+there's+nobody+watching%2C;Love+like+you'll+never+be+hurt%2C;Sing+like+there's+nobody+listening%2C;And+live+like+it's+heaven+on+earth.%E2%80%9D;%E2%80%95+William+W.+Purkey;%E2%80%A6and+learn+like+you%E2%80%99ve+never+failed+before.;%E2%80%95+Me" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1500&color=F7A670&width=435&lines=%22You've+gotta+dance+like+there's+nobody+watching%2C;Love+like+you'll+never+be+hurt%2C;Sing+like+there's+nobody+listening%2C;And+live+like+it's+heaven+on+earth.%E2%80%9D;%E2%80%95+William+W.+Purkey;%E2%80%A6and+learn+like+you%E2%80%99ve+never+failed+before.;%E2%80%95+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=F7A670&width=600&lines=%22You've+gotta+dance+like+there's+nobody+watching%2C;Love+like+you'll+never+be+hurt%2C;Sing+like+there's+nobody+listening%2C;And+live+like+it's+heaven+on+earth.%E2%80%9D;%E2%80%95+William+W.+Purkey;%E2%80%A6and+learn+like+you%E2%80%99ve+never+failed+before.;%E2%80%95+Me" alt="Typing SVG" /></a>
 
 ---
 
@@ -28,7 +26,7 @@
 - **Email**: cantigakenlester@gmail.com  
 - **LinkedIn**: [linkedin.com/in/ken-cantiga](https://linkedin.com/in/ken-cantiga)  
 - **Facebook**: [facebook.com/kenlester.cantiga](https://facebook.com/kenlester.cantiga)
-- **Twitter**: [twitter.com/kenlester.cantiga](https://twitter.com/Be1l_ai)
+- **Twitter**: [twitter.com/Be1l_ai](https://twitter.com/Be1l_ai)
 
 ---
 
@@ -62,9 +60,9 @@
 
 **Gitroll and Coding Style:**
 
-<p align="center" width="300">
+<p align="center">
 	<a href="https://gitroll.io/profile/ua2UW7tfgZYakaJXu4Fd95DtVfs53" target="_blank">
-		<img src="https://gitroll.io/api/badges/profiles/v1/ua2UW7tfgZYakaJXu4Fd95DtVfs53?theme=sepia" alt="GitRoll Profile Badge"/>
+		<img src="https://gitroll.io/api/badges/profiles/v1/ua2UW7tfgZYakaJXu4Fd95DtVfs53?theme=sepia" alt="GitRoll Profile Badge" width="250"/>
 	</a>
 </p>
 
