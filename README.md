@@ -1,22 +1,20 @@
 <table>
-<tr>
-<td width="25%" valign="top">
-<img src="https://media.tenor.com/iCKy9ici22wAAAAi/bt21-koya.gif" width="125" alt="koala popping" style="transform: rotate(180deg);"/>
-
-<img src="https://media.tenor.com/jCBlYvCo7qwAAAAj/sanpoh-sansan.gif" width="125" alt="working cat"/>
-</td>
-<td width="70%" align="left" valign="top">
-<h1>Hi, I'm Ken</h1>
-<p>
-Aspiring <strong>Data Scientist</strong> from the Philippines<br>
-Web Developer · Cybersecurity Enthusiast
-</p>
-<p>
-I build small systems with intention, learning how data, software, and infrastructure fit together. 
-Currently exploring the intersection of backend development, data analysis, and security.
-</p>
-</td>
-</tr>
+	<tr>
+		<td width="25%" valign="top">
+			<img src="https://media.tenor.com/jCBlYvCo7qwAAAAj/sanpoh-sansan.gif" width="125" alt="working cat"/>
+		</td>
+		<td width="70%" align="left" valign="top">
+			<h1>Hi, I'm Ken</h1>
+			<p>
+				Aspiring <strong>Data Scientist</strong> from the Philippines<br>
+				Web Developer · Cybersecurity Enthusiast
+			</p>
+			<p>
+				I build small systems with intention, learning how data, software, and infrastructure fit together. 
+				Currently exploring the intersection of backend development, data analysis, and security.
+			</p>
+		</td>
+	</tr>
 </table>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=F7A670&width=435&lines=%22You've+gotta+dance+like+there's+nobody+watching%2C;Love+like+you'll+never+be+hurt%2C;Sing+like+there's+nobody+listening%2C;And+live+like+it's+heaven+on+earth.%E2%80%9D;%E2%80%95+William+W.+Purkey;%E2%80%A6and+learn+like+you%E2%80%99ve+never+failed+before.;%E2%80%95+Me" alt="Typing SVG" /></a>
@@ -63,7 +61,9 @@ Currently exploring the intersection of backend development, data analysis, and 
 **Gitroll and Coding Style:**
 
 <p align="center">
-<img src="https://gitroll.io/profile/ua2UW7tfgZYakaJXu4Fd95DtVfs53"/>
+	<a href="https://gitroll.io/profile/ua2UW7tfgZYakaJXu4Fd95DtVfs53" target="_blank">
+		<img src="https://gitroll.io/api/badges/profiles/v1/ua2UW7tfgZYakaJXu4Fd95DtVfs53?theme=sepia" alt="GitRoll Profile Badge"/>
+	</a>
 </p>
 
 ---
