@@ -60,7 +60,7 @@
 
 **Gitroll and Coding Style:**
 
-<p align="center">
+<p align="left">
 	<a href="https://gitroll.io/profile/ua2UW7tfgZYakaJXu4Fd95DtVfs53" target="_blank">
 		<img src="https://gitroll.io/api/badges/profiles/v1/ua2UW7tfgZYakaJXu4Fd95DtVfs53?theme=sepia" alt="GitRoll Profile Badge" width="500"/>
 	</a>
