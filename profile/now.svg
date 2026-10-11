@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150">
+<rect x="0.5" y="0.5" rx="4.5" width="339" height="149" fill="#141321"/>
+<text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#fe428e">Right now</text>
+<text x="25" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#f8d847">Building</text>
+<text x="105" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9fef7">Study Bot</text>
+<text x="25" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#f8d847">Learning</text>
+<text x="105" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9fef7">pandas · NumPy · SQL</text>
+<text x="25" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#f8d847">Fuel</text>
+<text x="105" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9fef7">Coffee</text>
+
+</svg>
