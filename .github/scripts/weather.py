@@ -13,7 +13,7 @@ from xml.sax.saxutils import escape
 # ---- edit these ------------------------------------------------------------
 LABEL = "Dasmariñas, Cavite"          # what the card displays
 LAT, LON = 14.3294, 120.9367          # used only to fetch the weather
-BUILDING = "Study Bot"
+BUILDING = "Secret"
 LEARNING = "pandas · NumPy · SQL"
 # ---------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ def weather_svg(c):
 
 
 def now_svg():
-    rows = [("Building", BUILDING), ("Learning", LEARNING), ("Fuel", "Coffee")]
+    rows = [("Building", BUILDING), ("Learning", LEARNING), ("Fuel", "Tea")]
     body = f'<text x="25" y="35" font-family="{FONT}" font-size="18" font-weight="600" fill="{PINK}">Right now</text>\n'
     y = 70
     for k, v in rows:
