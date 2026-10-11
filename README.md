@@ -32,6 +32,10 @@
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top">
+
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
@@ -66,6 +70,25 @@
 	</a>
 </p>
 
+</td>
+<td valign="top" align="center">
+
+**Dashboard:**
+
+<img src="./profile/weather.svg" width="340" alt="Current weather"/>
+
+<img src="./profile/now.svg" width="340" alt="Right now"/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="340" alt="Random dev joke"/>
+
+![Status](https://img.shields.io/badge/Status-Building_stuff-F7A670?style=flat)
+![Timezone](https://img.shields.io/badge/Timezone-UTC%2B8-F7A670?style=flat)
+![Fuel](https://img.shields.io/badge/Fuel-Coffee-F7A670?style=flat)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Featured Projects
@@ -73,24 +96,44 @@
 <details open>
 <summary><strong>Click to expand</strong></summary>
 
-### Portal Project — Feedback Dashboard System
-A lightweight feedback management platform that replaces scattered email threads with an organized, centralized dashboard. Built to streamline communication and track feedback across teams.
+### Study Bot — PDF to Timed Study Sessions
+A Telegram bot that turns any PDF into a study session. It splits the text into topics, rewrites each one with an LLM without changing the facts, sends them on a timer, then deletes the topic and quizzes you. Pass the quiz and the topic counts as learned; fail and it comes back. Deployed on Render.
 
-**Tech**: Python, Flask/FastAPI, SQLAlchemy, SQLite/PostgreSQL
+**Tech**: Python, SQLite, Telegram Bot API, Groq API (Llama 3.3 70B)
 
 ---
 
 ### Movie Player — Web-Based Streaming App
 A browser-based movie streaming application featuring search functionality and direct playback. Designed for seamless media consumption with a clean, responsive interface.
 
-**Tech**: JavaScript, HTML/CSS, Tailwind CSS
+**Tech**: Python, Flask, JavaScript, Tailwind CSS, OMDb API
 
 ---
 
 ### Student Management — Desktop System
 A comprehensive desktop application for managing student records, courses, grades, and generating academic reports. Built with PyQt6 for a native application experience.
 
-**Tech**: Python, PyQt6, SQLite
+**Tech**: Python, PyQt6
+
+---
+
+### Room Reservation Database — Campus Room Booking
+A relational database design for booking shared campus rooms (classrooms, labs, study halls). Covers users, rooms, room features, bookings, check-ins and staff verification, with seed data and sample queries.
+
+**Tech**: SQL, SQLite
+
+---
+
+<table align="center">
+<tr>
+    <td><a href="https://github.com/Be1l-ai/study-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Be1l-ai&repo=study-bot&theme=radical&hide_border=true" alt="study-bot" /></a></td>
+    <td><a href="https://github.com/Be1l-ai/room-reservation-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Be1l-ai&repo=room-reservation-database&theme=radical&hide_border=true" alt="room-reservation-database" /></a></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Be1l-ai/Movie_Player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Be1l-ai&repo=Movie_Player&theme=radical&hide_border=true" alt="Movie_Player" /></a></td>
+    <td><a href="https://github.com/Be1l-ai/Student_Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Be1l-ai&repo=Student_Management&theme=radical&hide_border=true" alt="Student_Management" /></a></td>
+</tr>
+</table>
 
 ---
 
@@ -110,7 +153,7 @@ A growing collection of Python projects and small tools built while exploring pr
 - Learning statistical analysis and probability theory
 - Trying to be comfortable at data manipulation with pandas and NumPy
 - Exploring data analysis and visualization techniques
-- Exploring data cleaning an organizations
+- Exploring data cleaning and organization
 
 ### Frontend Development
 - Responsive design principles and mobile-first approach
@@ -138,15 +181,15 @@ A growing collection of Python projects and small tools built while exploring pr
 <table align="center">
 <tr>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Be1l-ai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
     </td>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Be1l-ai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
     </td>
 </tr>
 <tr>
     <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Be1l-ai&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Be1l-ai&theme=radical&hide_border=true&timezone=Asia/Manila" alt="GitHub Streak" />
     </td>
 </tr>
 </table>
